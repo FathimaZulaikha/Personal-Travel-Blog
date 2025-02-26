@@ -21,8 +21,10 @@ Created under **IBM's eBPL (Experience-Based Project Learning) programme** as pa
 - **Hosting:** IBM Cloud Static Web Apps
 - **Design Framework:** Bootstrap
 
-## 🖼️ Screenshots
-_Add screenshots of key sections here_
+## 📺 Walkthrough Video
+https://github.com/user-attachments/assets/5058c480-a69e-43cf-8615-1cb98d826f4b
+
+
 
 ## 📦 Setup & Installation
 1. Clone the repository:
